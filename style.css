@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(78, 76, 76);
+}
+#age {
+    font-size: 45px;
+    color: white;
+    background-color: #333333;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 15px;
+}
+#one {
+    width:500px;
+    height:400px;
+    padding: 30px;
+    background-color: aquamarine;
+    border: black solid 2px;
+    border-radius: 20px;
+}
+#cal {
+    width: fit-content;
+    font-size: 25px;
+    height: fit-content;
+    background-color: rgb(116, 173, 201);
+    cursor: pointer;
+    border-radius: 15px;
+    color: white;
+    padding: 15px;
+    margin-left: 30px;
+}
+#btn {
+    width: fit-content;
+    font-size: 25px;
+    height: fit-content;
+    background-color: yellowgreen;
+    cursor: pointer;
+    border-radius: 15px;
+    color: white;
+    padding: 15px;
+    margin-left: 10px;
+}
+#two {
+    display: flex;
+    align-items: center;
+    background-color: rgb(175, 206, 98);
+    padding:20px;
+    border-radius: 20px;
+}
+#text {
+    font-size: 30px;
+    color: orangered;
+}
+footer {
+    font-size: 18px;
+    color: white;
+}
+#result {
+    font-size: 20px;
+    color: white;
+    background-color: #333333;
+    padding: 5px;
+    border-radius: 10px;
+}
